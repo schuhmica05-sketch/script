@@ -1,0 +1,4 @@
+interface:
+  display_name: "script"
+  short_description: "商业短视频脚本、口播与获客文案：把确定选题写成三条可直接拍摄的稿件"
+  default_prompt: "使用 $script，根据我的 topic 输出（选题、实际讲什么、依据／待补素材）和已有项目事实，选择合适结构后自由写3条实质不同的完整获客口播；不重新选题、不按检查项机械填空，最终只交付文案 A、B、C。"
